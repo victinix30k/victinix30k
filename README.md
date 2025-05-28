@@ -1,9 +1,18 @@
 # VICTINIX30K@ 
 
+***
+
+  <img src='https://github.com/victinix30k/victinix30k/blob/main/VICTOR%20-%20VICTINIX30K%40.png' alt='Banner' width='1000px'/>
+
+***
+
 ## Trabajando en:
-   - Un videojuego llamado: "Rock, Papper scissors?" (HTML, CSS, JAVA SCRIPT)
+   - Un videojuego llamado: "rock paper scissors? the adventure" (HTML, CSS, JAVA SCRIPT)
    - Pagina web como prollecto personal (HTML, CSS, JAVA SCRIPT)
-   - Pogramacion y montaje de robot automatizado (JAVA, PYTHON)
+   - Pogramacion y montaje de robot automatizado (JAVA, PYTHON, ARDUINO)
+
+***
+
 ## ESTUDIANDO EN:
 - CIFP CESAR MANRRIQUE
 - 
@@ -41,8 +50,15 @@
 
    <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-yPAKNGWqmnv9HuKv9NF0xw1nRtB7-bBDYw&s' alt='Logo de Arduino' width='300px'/>
 
+   ***
+
 ## COMO CONTACTARME:
 ***Victordeinformatico@gmail.com***
 
+***
+
 # PROFESIONAL EN CONTRUCCION
+
+<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGQdZDFJoNu_tU3x7sWvFdXcu3dnUp9z_iyg&s' alt='Logo de Arduino' width='300px'/>
+
 
