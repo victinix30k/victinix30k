@@ -2,7 +2,7 @@
 
 ***
 
-  <img src='https://github.com/victinix30k/victinix30k/blob/main/VICTOR%20-%20VICTINIX30K%40.png' alt='Banner' width='1000px'/>
+  <img src='https://github.com/victinix30k/victinix30k/blob/main/VICTOR%20-%20VICTINIX30K%40%20(1).png' alt='Banner' width='1000px'/>
 
 ***
 
