@@ -5,6 +5,21 @@
   <img src='https://github.com/victinix30k/victinix30k/blob/main/VICTOR%20-%20VICTINIX30K%40%20(1).png' alt='Banner' width='1000px'/>
 
 ***
+# QUIEN SOY:
+
+Soy Víctor Manuel Guadalupe Gonzalez Perez, Estudiante en el reconocido centro de Tenerife CIFP Cesar Marrique y fan de la tecnologia
+
+LLevo desde pequeño fascinado con el futuro y las ventajas que este conlleva ademas de la tecnologia y la programacion,
+
+mi objetivo es poder vivir de lo que mas me gusta y interesa, la informatica, la robotica, la IA, la programacion y todo lo demas
+
+Aunque eh tenido mis tropiezos con la informatica sigo trabajando duro para avanzar y seguir dando lo mejor de mi.
+
+Uno de mis sueños es crear una IA que puedas implementar a tu Sistema operativo como ayudante a tiempo completo o Robot fisico
+
+Ademas siempre eh soñado con crear mi propio videojuego.
+
+***
 
 ## Trabajando en:
    - Un videojuego llamado: "rock paper scissors? the adventure" (HTML, CSS, JAVA SCRIPT)
@@ -54,6 +69,11 @@
 
 ## COMO CONTACTARME:
 ***Victordeinformatico@gmail.com***
+
+***
+## Canal de Youtube
+
+Visita mi canal de YouTube para contenido de videojuegos: [YouTube - Canal de Víctor](https://www.youtube.com/@victinix3078)
 
 ***
 
